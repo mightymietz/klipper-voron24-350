@@ -5,8 +5,6 @@
 set -e
 
 KLIPPER_DIR=~/klipper
-FLASH_SCRIPT=~/klippy-env/bin/python3 ~/katapult/scripts/flash_can.py
-
 EBB36_UUID="9e1d04953b6c"
 KRAKEN_UUID="49c000c1c373"
 
